@@ -1,0 +1,3 @@
+Attached is a .CDF file (Mathematica demonstration format) that is a quick demonstration on using viscoelasticity in a vibration isolation system. To run the file, you will need to download and install the CDF player (free download here http://www.wolfram.com/cdf-player/). Once you have the player installed, you can just open the file and start playing around with it.
+
+I am also attaching a PDF that is a short write-up of some key concepts of viscoelasticity and a little walk through of some of the key features of the demonstration. 
